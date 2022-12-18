@@ -1,16 +1,8 @@
-# chat_app
+# Login Screen UI
 
-A new Flutter project.
+This is a UI screen for a chat app.
+Visit other repos for full chat app with backend
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1671369543](https://user-images.githubusercontent.com/96678300/208300745-e5d4a60a-844a-41cc-87d2-de900b1c4ad7.png)
